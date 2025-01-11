@@ -29,7 +29,7 @@ You can simply log in using the credentials that you would use in the respective
 ## Installation
 
 ### Install with HACS (recommended)
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=msvisser&repository=remeha_home&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=hitmarten&repository=remeha_home&category=integration)
 
 Do you have [HACS](https://hacs.xyz/) installed?
 Click the button or follow the instructions.

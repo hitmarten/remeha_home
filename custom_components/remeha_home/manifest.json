@@ -1,13 +1,13 @@
 {
-  "domain": "remeha_home",
-  "name": "Remeha Home",
+  "domain": "remeha_home_hitmarten",
+  "name": "Remeha Home (hitmarten)",
   "codeowners": [
-    "@msvisser"
+    "@hitmarten"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/msvisser/remeha_home",
+  "documentation": "https://github.com/hitmarten/remeha_home",
   "integration_type": "device",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/msvisser/remeha_home/issues",
+  "issue_tracker": "https://github.com/hitmarten/remeha_home/issues",
   "version": "0.0.0"
 }
