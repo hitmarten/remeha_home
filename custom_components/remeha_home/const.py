@@ -11,7 +11,7 @@ from homeassistant.components.binary_sensor import (
 )
 from homeassistant.const import UnitOfEnergy, UnitOfTemperature, UnitOfPressure
 
-DOMAIN = "remeha_home"
+DOMAIN = "remeha_home_hitmarten"
 
 APPLIANCE_SENSOR_TYPES = [
     SensorEntityDescription(
