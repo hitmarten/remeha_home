@@ -149,6 +149,9 @@ class RemehaHomeUpdateCoordinator(DataUpdateCoordinator):
                         ]["producers"]:
                             for producer_stat in PRODUCER_STATS:
                                 stat = f"{producer_stat}{producer["energyType"]}"
+                                if not isinstance(stat, (int, float)):
+                                    stat = 0.0
+
                                 self.appliance_consumption_data[appliance_id][stat] = (
                                     self.appliance_consumption_data[appliance_id].get(
                                         stat, 0.0
