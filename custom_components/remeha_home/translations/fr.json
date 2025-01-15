@@ -17,7 +17,7 @@
     },
     "entity": {
         "climate": {
-            "remeha_home": {
+            "remeha_home_hitmarten": {
                 "state_attributes": {
                     "preset_mode": {
                         "state": {
