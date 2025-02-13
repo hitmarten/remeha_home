@@ -1,0 +1,51 @@
+{
+  "startDateTimeUsed": "2025-02-13T00:00:00+00:00",
+  "endDateTimeUsed": "2025-02-13T23:59:59+00:00",
+  "data": [
+    {
+      "timeStamp": "2025-02-13T18:00:00+00:00",
+      "heatingEnergyConsumed": 16.0,
+      "hotWaterEnergyConsumed": 0,
+      "coolingEnergyConsumed": 0,
+      "heatingEnergyDelivered": 52.0,
+      "hotWaterEnergyDelivered": 0,
+      "coolingEnergyDelivered": 0,
+      "producerPerformanceStatistics": {
+        "producers": [
+          {
+            "isMigratedFromLegacy": false,
+            "instanceWithinDevice": 1,
+            "deviceIndex": "02072d4903e8",
+            "producerType": "HeatPumpAirSource",
+            "energyType": "Electric",
+            "energyConsumptionCH": 14.0,
+            "energyConsumptionDHW": 0,
+            "energyConsumptionCooling": 0,
+            "energyConsumptionTotal": 14.0,
+            "energyProductionCH": 55.0,
+            "energyProductionDHW": null,
+            "energyProductionCooling": 0,
+            "energyProductionTotal": 55.0,
+            "seasonalEfficiency": 3.0
+          },
+          {
+            "isMigratedFromLegacy": false,
+            "instanceWithinDevice": 2,
+            "deviceIndex": "02072d4903e8",
+            "producerType": "GasBoiler",
+            "energyType": "NaturalGas",
+            "energyConsumptionCH": 4.0,
+            "energyConsumptionDHW": 0,
+            "energyConsumptionCooling": 0,
+            "energyConsumptionTotal": 4.0,
+            "energyProductionCH": null,
+            "energyProductionDHW": null,
+            "energyProductionCooling": null,
+            "energyProductionTotal": null,
+            "seasonalEfficiency": null
+          }
+        ]
+      }
+    }
+  ]
+}

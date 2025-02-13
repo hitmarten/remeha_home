@@ -1,0 +1,14 @@
+{
+  "applianceName": "Elga Ace",
+  "internetConnectedGateways": [
+    {
+      "deviceTypeName": "RU2",
+      "name": "RU2",
+      "serialNumber": "BDRT00018747",
+      "softwareVersion": "2.27.3",
+      "hardwareVersion": "9",
+      "controlledZoneName": null
+    }
+  ],
+  "peripherals": []
+}
